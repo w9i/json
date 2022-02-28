@@ -1,5 +1,5 @@
 {
-  "arealist": [
+  "posts": [
     [
       {
         "title": "北海道",
@@ -33,7 +33,7 @@
       }
     ]
   ],
-  "otherlist": [
+  "comments": [
     {
       "id": 1,
       "body": "some comment",
