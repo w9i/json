@@ -2,33 +2,33 @@
     [
       {
         "title": "北海道",
-        "isComplete": false
+        "isComplete": 0
       },
       {
         "title": "青森県",
-        "isComplete": false
+        "isComplete": 0
       },
       {
         "title": "岩手県",
-        "isComplete": false
+        "isComplete": 0
       },
       {
         "title": "宮城県",
-        "isComplete": false
+        "isComplete": 0
       }
     ],
     [
       {
         "title": "茨城県",
-        "isComplete": true
+        "isComplete": 1
       },
       {
         "title": "栃木県",
-        "isComplete": false
+        "isComplete": 0
       },
       {
         "title": "群馬県",
-        "isComplete": false
+        "isComplete": 0
       }
     ]
   ]
